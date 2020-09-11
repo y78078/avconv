@@ -7,3 +7,5 @@
 https://zhuanlan.zhihu.com/p/62246545
 
 https://software.intel.com/en-us/articles/build-and-debug-open-source-media-stack
+
+## 5.sudo apt-get install -y v4l-utils
