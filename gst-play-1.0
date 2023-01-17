@@ -1,0 +1,5 @@
+# gst-play
+
+## play picture
+
+gst-play-1.0 --wait-on-eos
